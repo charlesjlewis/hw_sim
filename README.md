@@ -1,7 +1,7 @@
 # hw_sim
 Relatively simple hardware simulator
 
-Here I want to create a gate-level simulator which can handle a time-based circuit simulation.
+Here I want to create a gate-level simulator which can handle time-based circuit simulation.
 
 It should, eventually, support a text-file description of said circuit. It should also allow scripted input settings and check that outputs are as expected. This is a work-in-progress and I fully expect it will morph as it ages, matures hopefully.
 
